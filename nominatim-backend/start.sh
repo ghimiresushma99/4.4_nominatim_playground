@@ -20,8 +20,6 @@ else
 fi
 
 #replace custom files here
-echo "things happening"
-echo "hereeeeeeeeeeeeeee000000000000000000000000000000000000000000000000000000000001111111111111111112222222222222222222222333333"
 cp /address.config-custom.json /usr/local/etc/nominatim/address-levels.json
 cp /address_lookup.sql /usr/local/lib/nominatim/lib-sql/functions/address_lookup.sql
 cp /placex_triggers.sql /usr/local/lib/nominatim/lib-sql/functions/placex_triggers.sql

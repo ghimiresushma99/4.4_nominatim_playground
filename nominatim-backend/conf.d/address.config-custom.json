@@ -1,0 +1,92 @@
+[
+  {
+    "tags": {
+      "place": {
+        "sea": [2, 0],
+        "continent": [2, 0],
+        "country": [4, 4],
+        "city": [16, 30],
+        "town": [18, 30],
+        "village" : [19, 16],
+        "suburb" : [19, 20],
+        "hamlet": [24, 22],
+        "neighbourhood": [24, 22],
+        "quarter" : [24, 22],
+        "isolated_dwelling" : [24, 22],
+        "farm" : [24, 22],
+        "square" : [24,22],
+        "locality": [24, 22],
+        "ilaaka": [24, 0]
+      },
+      "highway": {
+        "" : 30,
+        "bus_stop": [30, 30],
+        "service": 26,
+        "cycleway": 27,
+        "path": 27,
+        "footway": 27,
+        "steps": 27,
+        "bridleway": 27,
+        "motorway_link": 26,
+        "primary_link": 26,
+        "trunk_link": 26,
+        "secondary_link": 26,
+        "tertiary_link": 26,
+        "residential": 26,
+        "track": 27,
+        "unclassified": 0,
+        "tertiary": 26,
+        "secondary": 26,
+        "primary": 26,
+        "living_street": 26,
+        "trunk": 26,
+        "motorway": 26,
+        "pedestrian": 26,
+        "road": 27,
+        "construction": 27
+      },
+      "boundary": {
+        "administrative7": [10, 14],
+        "administrative6": [10, 13],
+        "national_park": [18, 0]
+      },
+      "waterway": {
+        "river": [19, 0],
+        "stream" : [22, 0],
+        "ditch" : [22, 0],
+        "drain" : [22, 0],
+        "" : [20, 0]
+      },
+      "leisure": {
+        "park": [24, 0]
+      },
+      "landuse": {
+        "residential" : 22,
+        "farm" : 22,
+        "farmyard" : 22,
+        "industrial" : 22,
+        "commercial" : 22,
+        "allotments" : 22,
+        "retail" : 22,
+        "" : [22, 0]
+      },
+      "natural" : {
+        "peak" : [18, 0],
+        "volcano" : [18, 0],
+        "mountain_range" : [18, 0],
+        "sea" : [4, 0],
+        "tree" : 30,
+        "spring"  : 30,
+        "cave_entrance" : 30,
+        "geyser" : 30,
+        "hot_spring" : 30,
+        "rock" : 30,
+        "stone" : 30,
+        "" : [22, 0]
+    },
+    "mountain_pass" : {
+      "" : [20, 0]
+  }
+    }
+  }
+]

@@ -16,7 +16,7 @@
         "farm" : [24, 22],
         "square" : [24,22],
         "locality": [24, 22],
-        "ilaaka": [24, 0]
+        "ilaaka": [24, 22]
       },
       "highway": {
         "" : 30,
